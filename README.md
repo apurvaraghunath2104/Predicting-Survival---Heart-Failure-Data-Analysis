@@ -10,7 +10,7 @@ We have used the Heart Failure clinical records dataset from UCI Machine Learnin
 
 Different variables present in the dataset are listed below: 
 
-● age: age of the patient (years) 
+● age: age of the patient (years) <br/>
 ● anaemia: decrease of red blood cells or hemoglobin (boolean) 
 ● high blood pressure: if the patient has hypertension (boolean) 
 ● creatinine phosphokinase (CPK): level of the CPK enzyme in the blood (mcg/L) 
